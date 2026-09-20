@@ -3,10 +3,14 @@
   {
    "id": 1,
    "name": "Hayalet Sef",
-   "version": "1.0.1",
-   "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.1.apk",
-   "notes": "dokunmatik kontrol, 12 ozgun ruh, merdiven+cekmece animasyonu, lanetli geceler, rozetler",
+   "version": "1.0.2",
+   "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.2.apk",
+   "notes": "dokunmatik, 12 ozgun ruh, merdiven+cekmece, CRT, rozetler\"",
    "hist": [
+    {
+     "v": "1.0.1",
+     "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.1.apk"
+    },
     {
      "v": "1.0.1",
      "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.1.apk"
