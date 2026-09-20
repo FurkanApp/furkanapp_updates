@@ -5,8 +5,12 @@
    "name": "Hayalet Sef",
    "version": "1.0.1",
    "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.1.apk",
-   "notes": "açılma hatsı düzeltildi",
+   "notes": "dokunmatik kontrol, 12 ozgun ruh, merdiven+cekmece animasyonu, lanetli geceler, rozetler",
    "hist": [
+    {
+     "v": "1.0.1",
+     "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.1.apk"
+    },
     {
      "v": "1.0.0",
      "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.0.apk"
