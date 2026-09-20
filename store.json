@@ -5,8 +5,13 @@
    "name": "Hayalet Sef",
    "version": "1.0.0",
    "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.0.apk",
-   "notes": "12 farklı ruh , boslar , paranormal olaylar ve daha fazlası",
-   "hist": [],
+   "notes": "12 ruh,bos geceleri,paranormal olaylar ve daha fazlası",
+   "hist": [
+    {
+     "v": "1.0.0",
+     "url": "https://raw.githubusercontent.com/FurkanApp/furkanapp_updates/main/store/Hayalet_Sef-1.0.0.apk"
+    }
+   ],
    "rt": {},
    "cm": []
   }
